@@ -30,6 +30,10 @@
 
 [Install Docker Engine on Debian](https://docs.docker.com/engine/install/debian/)
 
+[Installing Debian on WSL (Windows Subsystem for Linux)](https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux)
+
+[Debian for WSL GitLab](https://salsa.debian.org/debian/WSL)
+
 [Debian Wiki](https://wiki.debian.org/NetworkConfiguration)
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
