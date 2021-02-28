@@ -24,11 +24,13 @@
 
 7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#professional-audio--video-editing)
 
-8. [Machine Learning](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#machine-learning)
+8. [Kubernetes](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#kubernetes)
 
-9. [GNOME Extensions](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#gnome-extensions)
+9. [Machine Learning](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#machine-learning)
 
-10. [Advanced Topics](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#advanced-topics)
+10. [GNOME Extensions](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#gnome-extensions)
+
+11. [Advanced Topics](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#advanced-topics)
 
 # Getting Started
 
