@@ -38,7 +38,7 @@
 
 14. [Cloud Native Development](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#cloud-native-development)
 
-15. [DevOps Development](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#devops)
+15. [DevOps Development](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#devops-development)
 
 16. [Flutter Development](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#flutter-development)
 
