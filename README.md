@@ -66,11 +66,11 @@
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
  
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107439775-73ef8a00-6ae7-11eb-9037-6aa910fc3c74.png">
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/129622953-4b379400-9145-4d5b-9572-bcda571894f4.png">
   <br />
-  Debian Desktop
-</h1>
+  Debian 11 Desktop
+</h2>
 
 ## Installing KDE Plasma on Debian
 
