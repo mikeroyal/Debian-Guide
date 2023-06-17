@@ -28,7 +28,7 @@
 
 5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-6. [Setting up a Windows 10 Workspace](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+6. [Setting up a Windows 10/11 Workspace](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
 7. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Debian-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
 
@@ -62,22 +62,18 @@
 
 [Debian](https://www.debian.org/) is an operating system and a distribution of Free Software. It is maintained and updated through the work of many users who volunteer their time and effort.
 
-[Debian GitLab](https://salsa.debian.org/explore/projects)
+ * [Debian GitLab](https://salsa.debian.org/explore/projects)
 
-[Install Docker Engine on Debian](https://docs.docker.com/engine/install/debian/)
+ * [Install Docker Engine on Debian](https://docs.docker.com/engine/install/debian/)
 
-[Installing Debian on WSL (Windows Subsystem for Linux)](https://wiki.debian.org/InstallingDebianOn/Microsoft/Windows/SubsystemForLinux)
-
-[Debian for WSL GitLab](https://salsa.debian.org/debian/WSL)
-
-[Debian Wiki](https://wiki.debian.org/NetworkConfiguration)
+ * [Debian Wiki](https://wiki.debian.org/NetworkConfiguration)
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
  
 <h2 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/129622953-4b379400-9145-4d5b-9572-bcda571894f4.png">
+ <img src="https://github.com/mikeroyal/Debian-Guide/assets/45159366/427517c9-c6e7-4695-8a31-9623b305290c">
   <br />
-  Debian 11 Desktop
+  Debian 12 Desktop
 </h2>
 
 ## Installing KDE Plasma on Debian
